@@ -1,10 +1,10 @@
 # Goodreads Books Analysis
 
-## Project Overview
+## 📊 Project Overview
 
-An interactive dashboard analyzing books, authors, ratings, reviews, publishers, and languages using the Goodreads dataset.
+An interactive Power BI dashboard analyzing books, authors, ratings, reviews, publishers, and languages using the Goodreads dataset.
 
-## Tools Used
+## 🛠️ Tools Used
 
 - Power BI
 - Power Query
@@ -12,7 +12,7 @@ An interactive dashboard analyzing books, authors, ratings, reviews, publishers,
 - Data Modeling
 - Data Visualization
 
-## Dashboard
+## 📈 Dashboard
 
 ### Overview
 
@@ -22,14 +22,14 @@ An interactive dashboard analyzing books, authors, ratings, reviews, publishers,
 
 ![Goodreads Home](goodreads-home.png)
 
-## Key Metrics
+## 🔑 Key Metrics
 
-- Total Books: 11K
-- Average Rating: 3.93
-- Total Authors: 7K
-- Total Reviews: 6M
+- Total Books: **11K**
+- Average Rating: **3.93**
+- Total Authors: **7K**
+- Total Reviews: **6M**
 
-## Analysis
+## 🔍 Analysis
 
 The dashboard explores:
 
@@ -37,9 +37,11 @@ The dashboard explores:
 - Top publishers by number of books
 - Books published by month
 - Top authors by number of books
-- Languages distribution
+- Language distribution
 - Most reviewed books
 
-## Key Insights
+## 💡 Key Insights
 
-The dashboard provides an interactive overview of the Goodreads dataset and allows users to explore the data using filters such as year and quarter.
+The dashboard provides an interactive overview of the Goodreads dataset and allows users to explore book-related trends using filters such as **year and quarter**.
+
+It helps users compare books, authors, publishers, ratings, reviews, and languages through interactive visualizations.
